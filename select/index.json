@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-11T16:00:40.500018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_波に名前をつけること、僕らの呼吸に終わりがあること。_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/02_波に名前をつけること、僕らの呼吸に終わりがあること。_Sou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/03_波に名前をつけること、僕らの呼吸に終わりがあること。_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+      "artist": "Konnichiwa Tanita‐san feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/04_波に名前をつけること、僕らの呼吸に終わりがあること。_Konnichiwa_Tanita‐san_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_波に名前をつけること、僕らの呼吸に終わりがあること。_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_波に名前をつけること、僕らの呼吸に終わりがあること。_キタニタツヤ.txt"
+    }
+  ]
+}
